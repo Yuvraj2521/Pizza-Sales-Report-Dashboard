@@ -1,4 +1,4 @@
-# Pizza-Sales-Report-Dashboard
+
 📌 Project Overview:
 This data analytics project analyzes pizza sales data to gain insights into business performance and understand key trends. By utilizing SQL for data extraction and Tableau for visualization, the project identifies critical metrics such as sales volume, customer preferences, and peak operational hours.
 
